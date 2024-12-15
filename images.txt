@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.1.0
 mysql:8.0.30
+rabbitmq:3.12.0-management
